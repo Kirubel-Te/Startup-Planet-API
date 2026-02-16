@@ -1,0 +1,22 @@
+{
+  "name": "startup_planet",
+  "version": "1.0.0",
+  "description": "a dataset of the world's most promising startups",
+  "keywords": [
+    "default"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "default"
+  },
+  "license": "ISC",
+  "author": "Kirubel-Tesfaye",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "default"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
